@@ -3,7 +3,7 @@ import { async } from 'q';
 import Header from './components/Header';
 import Info from './components/info';
 
-
+//So para comitar
 
 
 class App extends React.Component {
